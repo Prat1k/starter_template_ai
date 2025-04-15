@@ -17,3 +17,8 @@ This is a clean, minimal starter template for any Python project. It includes:
 ```bash
 git clone https://github.com/YOUR_USERNAME/starter_template_ai my-new-project
 cd my-new-project
+
+python -m venv .venv
+source .venv/bin/activate      # or .venv\Scripts\activate on Windows
+pip install -r requirements.txt
+cp .env.example .env
