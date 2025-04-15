@@ -15,5 +15,5 @@ This is a clean, minimal starter template for any Python project. It includes:
 ### 1. Clone the Template
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/python-project-template my-new-project
+git clone https://github.com/YOUR_USERNAME/starter_template_ai my-new-project
 cd my-new-project
